@@ -26,7 +26,7 @@ $CordY = -1
 
 $DieMapperIniDatei = @ScriptDir & "\" & "mapper.ini"
 
-$DieInfo   = "Mapper 2019.01.26.1"
+$DieInfo   = "Mapper 2019.01.26.2"
 $TimeTest  = 3000 ; Vorbelegung
 $TimeBegin = TimerInit()
 
